@@ -5,14 +5,14 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-  background: #F7F7F7;
+  background: #F BFBFB;
   font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text", "Helvetica Neue", sans-serif;
 }
 
 /* ── Card ── */
 .card {
   zoom: 1.2;
-  background: #F7F7F7;
+  background: #FFFFFF;
   border: 1px solid #ebebeb;
   border-radius: 12px;
   padding: 40px 20px 24px;
